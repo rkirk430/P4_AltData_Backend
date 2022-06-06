@@ -1,0 +1,2002 @@
+[
+    {
+        "ReportDate": "2022-05-19",
+        "TransactionDate": "2022-04-11",
+        "Ticker": "CDEV",
+        "Representative": "Christopher L. Jacobs",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-19",
+        "TransactionDate": "2022-04-11",
+        "Ticker": "PTEN",
+        "Representative": "Christopher L. Jacobs",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-19",
+        "TransactionDate": "2022-04-11",
+        "Ticker": "PLAN",
+        "Representative": "Christopher L. Jacobs",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-19",
+        "TransactionDate": "2022-04-11",
+        "Ticker": "KOS",
+        "Representative": "Christopher L. Jacobs",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-19",
+        "TransactionDate": "2022-04-11",
+        "Ticker": "NEX",
+        "Representative": "Christopher L. Jacobs",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-19",
+        "TransactionDate": "2022-04-11",
+        "Ticker": "DIS",
+        "Representative": "Christopher L. Jacobs",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-19",
+        "TransactionDate": "2022-04-11",
+        "Ticker": "AR",
+        "Representative": "Christopher L. Jacobs",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-19",
+        "TransactionDate": "2022-04-11",
+        "Ticker": "WYNN",
+        "Representative": "Christopher L. Jacobs",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-19",
+        "TransactionDate": "2022-04-11",
+        "Ticker": "CPE",
+        "Representative": "Christopher L. Jacobs",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-19",
+        "TransactionDate": "2022-04-11",
+        "Ticker": "PTON",
+        "Representative": "Christopher L. Jacobs",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-19",
+        "TransactionDate": "2022-04-11",
+        "Ticker": "UEC",
+        "Representative": "Christopher L. Jacobs",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-19",
+        "TransactionDate": "2022-04-11",
+        "Ticker": "TELL",
+        "Representative": "Christopher L. Jacobs",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-19",
+        "TransactionDate": "2022-04-11",
+        "Ticker": "SM",
+        "Representative": "Christopher L. Jacobs",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-19",
+        "TransactionDate": "2022-04-11",
+        "Ticker": "Z",
+        "Representative": "Christopher L. Jacobs",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-19",
+        "TransactionDate": "2022-04-11",
+        "Ticker": "UUUU",
+        "Representative": "Christopher L. Jacobs",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-19",
+        "TransactionDate": "2022-04-11",
+        "Ticker": "UBER",
+        "Representative": "Christopher L. Jacobs",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-19",
+        "TransactionDate": "2022-04-11",
+        "Ticker": "NBR",
+        "Representative": "Christopher L. Jacobs",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-18",
+        "TransactionDate": "2022-05-12",
+        "Ticker": "FLL",
+        "Representative": "Susie Lee",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-16",
+        "TransactionDate": "2022-04-19",
+        "Ticker": "CRNC",
+        "Representative": "Josh Gottheimer",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-16",
+        "TransactionDate": "2022-04-14",
+        "Ticker": "MNST",
+        "Representative": "Josh Gottheimer",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-16",
+        "TransactionDate": "2022-04-14",
+        "Ticker": "TPR",
+        "Representative": "Josh Gottheimer",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-16",
+        "TransactionDate": "2022-04-14",
+        "Ticker": "EL",
+        "Representative": "Josh Gottheimer",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-16",
+        "TransactionDate": "2022-04-20",
+        "Ticker": "MTCH",
+        "Representative": "Josh Gottheimer",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-16",
+        "TransactionDate": "2022-04-19",
+        "Ticker": "XNGSY",
+        "Representative": "Josh Gottheimer",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-16",
+        "TransactionDate": "2022-04-19",
+        "Ticker": "APD",
+        "Representative": "Josh Gottheimer",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-16",
+        "TransactionDate": "2022-04-19",
+        "Ticker": "TEX",
+        "Representative": "Josh Gottheimer",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-16",
+        "TransactionDate": "2022-04-14",
+        "Ticker": "BKNG",
+        "Representative": "Josh Gottheimer",
+        "Transaction": "Sale",
+        "Amount": 15001.0,
+        "House": "Representatives",
+        "Range": "$15,001-$50,000"
+    },
+    {
+        "ReportDate": "2022-05-16",
+        "TransactionDate": "2022-04-19",
+        "Ticker": "CVET",
+        "Representative": "Josh Gottheimer",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-16",
+        "TransactionDate": "2022-04-14",
+        "Ticker": "LLY",
+        "Representative": "Josh Gottheimer",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-16",
+        "TransactionDate": "2022-04-14",
+        "Ticker": "TGT",
+        "Representative": "Josh Gottheimer",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-16",
+        "TransactionDate": "2022-04-13",
+        "Ticker": "TWKS",
+        "Representative": "Josh Gottheimer",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-16",
+        "TransactionDate": "2022-04-19",
+        "Ticker": "PYCR",
+        "Representative": "Josh Gottheimer",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-16",
+        "TransactionDate": "2022-04-13",
+        "Ticker": "ECOL",
+        "Representative": "Josh Gottheimer",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-16",
+        "TransactionDate": "2022-04-19",
+        "Ticker": "PNGAY",
+        "Representative": "Josh Gottheimer",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-16",
+        "TransactionDate": "2022-04-19",
+        "Ticker": "MDB",
+        "Representative": "Josh Gottheimer",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-16",
+        "TransactionDate": "2022-04-19",
+        "Ticker": "AAPL",
+        "Representative": "Josh Gottheimer",
+        "Transaction": "Purchase",
+        "Amount": 15001.0,
+        "House": "Representatives",
+        "Range": "$15,001-$50,000"
+    },
+    {
+        "ReportDate": "2022-05-16",
+        "TransactionDate": "2022-04-19",
+        "Ticker": "TCEHY",
+        "Representative": "Josh Gottheimer",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-16",
+        "TransactionDate": "2022-04-19",
+        "Ticker": "CCXI",
+        "Representative": "Josh Gottheimer",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-16",
+        "TransactionDate": "2022-04-20",
+        "Ticker": "FB",
+        "Representative": "Josh Gottheimer",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-16",
+        "TransactionDate": "2022-04-19",
+        "Ticker": "SPXC",
+        "Representative": "Josh Gottheimer",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-16",
+        "TransactionDate": "2022-04-19",
+        "Ticker": "INTU",
+        "Representative": "Josh Gottheimer",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-16",
+        "TransactionDate": "2022-05-14",
+        "Ticker": "SPG",
+        "Representative": "Victoria Spartz",
+        "Transaction": "Purchase",
+        "Amount": 15001.0,
+        "House": "Representatives",
+        "Range": "$15,001-$50,000"
+    },
+    {
+        "ReportDate": "2022-05-16",
+        "TransactionDate": "2022-04-21",
+        "Ticker": "CHX",
+        "Representative": "Josh Gottheimer",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-16",
+        "TransactionDate": "2022-04-21",
+        "Ticker": "UNICY",
+        "Representative": "Josh Gottheimer",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-16",
+        "TransactionDate": "2022-04-27",
+        "Ticker": "CTSH",
+        "Representative": "Josh Gottheimer",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-16",
+        "TransactionDate": "2022-05-11",
+        "Ticker": "AAPL",
+        "Representative": "Bob Gibbs",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-16",
+        "TransactionDate": "2021-08-27",
+        "Ticker": "FSK",
+        "Representative": "Gary Peters",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Senate",
+        "Range": "$1,001 - $15,000"
+    },
+    {
+        "ReportDate": "2022-05-16",
+        "TransactionDate": "2021-09-01",
+        "Ticker": "LBRDK",
+        "Representative": "John Hickenlooper",
+        "Transaction": "Sale",
+        "Amount": 100001.0,
+        "House": "Senate",
+        "Range": "$100,001 - $250,000"
+    },
+    {
+        "ReportDate": "2022-05-16",
+        "TransactionDate": "2021-11-12",
+        "Ticker": "LSXMK",
+        "Representative": "John Hickenlooper",
+        "Transaction": "Sale",
+        "Amount": 250001.0,
+        "House": "Senate",
+        "Range": "$250,001 - $500,000"
+    },
+    {
+        "ReportDate": "2022-05-16",
+        "TransactionDate": "2022-04-28",
+        "Ticker": "COP",
+        "Representative": "Josh Gottheimer",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-16",
+        "TransactionDate": "2022-04-28",
+        "Ticker": "ALGN",
+        "Representative": "Josh Gottheimer",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-16",
+        "TransactionDate": "2022-04-28",
+        "Ticker": "LLY",
+        "Representative": "Josh Gottheimer",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-16",
+        "TransactionDate": "2022-04-22",
+        "Ticker": "LMND",
+        "Representative": "Bill Hagerty",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Senate",
+        "Range": "$1,001 - $15,000"
+    },
+    {
+        "ReportDate": "2022-05-16",
+        "TransactionDate": "2022-04-27",
+        "Ticker": "MS",
+        "Representative": "Josh Gottheimer",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-16",
+        "TransactionDate": "2022-04-14",
+        "Ticker": "MAR",
+        "Representative": "Josh Gottheimer",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-16",
+        "TransactionDate": "2022-04-14",
+        "Ticker": "COP",
+        "Representative": "Josh Gottheimer",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-16",
+        "TransactionDate": "2022-04-01",
+        "Ticker": "NSC",
+        "Representative": "Josh Gottheimer",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-16",
+        "TransactionDate": "2022-04-21",
+        "Ticker": "SSDOY",
+        "Representative": "Josh Gottheimer",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-16",
+        "TransactionDate": "2022-04-01",
+        "Ticker": "SBUX",
+        "Representative": "Josh Gottheimer",
+        "Transaction": "Purchase",
+        "Amount": 15001.0,
+        "House": "Representatives",
+        "Range": "$15,001-$50,000"
+    },
+    {
+        "ReportDate": "2022-05-16",
+        "TransactionDate": "2022-04-21",
+        "Ticker": "MGY",
+        "Representative": "Josh Gottheimer",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-16",
+        "TransactionDate": "2022-04-21",
+        "Ticker": "PTEN",
+        "Representative": "Josh Gottheimer",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-16",
+        "TransactionDate": "2022-04-01",
+        "Ticker": "CVX",
+        "Representative": "Josh Gottheimer",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-16",
+        "TransactionDate": "2022-04-01",
+        "Ticker": "BRK.B",
+        "Representative": "Josh Gottheimer",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-16",
+        "TransactionDate": "2022-04-01",
+        "Ticker": "LOW",
+        "Representative": "Josh Gottheimer",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-13",
+        "TransactionDate": "2022-04-29",
+        "Ticker": "PYPL",
+        "Representative": "Tommy Tuberville",
+        "Transaction": "Sale",
+        "Amount": 50001.0,
+        "House": "Senate",
+        "Range": "$50,001 - $100,000"
+    },
+    {
+        "ReportDate": "2022-05-13",
+        "TransactionDate": "2022-04-11",
+        "Ticker": "SQ",
+        "Representative": "Tommy Tuberville",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Senate",
+        "Range": "$1,001 - $15,000"
+    },
+    {
+        "ReportDate": "2022-05-13",
+        "TransactionDate": "2022-04-28",
+        "Ticker": "PYPL",
+        "Representative": "Tommy Tuberville",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Senate",
+        "Range": "$1,001 - $15,000"
+    },
+    {
+        "ReportDate": "2022-05-13",
+        "TransactionDate": "2022-04-11",
+        "Ticker": "PYPL",
+        "Representative": "Tommy Tuberville",
+        "Transaction": "Purchase",
+        "Amount": 15001.0,
+        "House": "Senate",
+        "Range": "$15,001 - $50,000"
+    },
+    {
+        "ReportDate": "2022-05-13",
+        "TransactionDate": "2022-04-19",
+        "Ticker": "TJX",
+        "Representative": "Robert J. Wittman",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-13",
+        "TransactionDate": "2022-04-21",
+        "Ticker": "ECOM",
+        "Representative": "Tommy Tuberville",
+        "Transaction": "Purchase",
+        "Amount": 100001.0,
+        "House": "Senate",
+        "Range": "$100,001 - $250,000"
+    },
+    {
+        "ReportDate": "2022-05-13",
+        "TransactionDate": "2022-04-28",
+        "Ticker": "PYPL",
+        "Representative": "Tommy Tuberville",
+        "Transaction": "Sale",
+        "Amount": 50001.0,
+        "House": "Senate",
+        "Range": "$50,001 - $100,000"
+    },
+    {
+        "ReportDate": "2022-05-13",
+        "TransactionDate": "2022-04-19",
+        "Ticker": "ABT",
+        "Representative": "Robert J. Wittman",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-12",
+        "TransactionDate": "2022-04-08",
+        "Ticker": "HON",
+        "Representative": "Kevin Hern",
+        "Transaction": "Sale",
+        "Amount": 250001.0,
+        "House": "Representatives",
+        "Range": "$250,001-$1,000,000"
+    },
+    {
+        "ReportDate": "2022-05-12",
+        "TransactionDate": "2022-04-01",
+        "Ticker": "AHCO",
+        "Representative": "Kevin Hern",
+        "Transaction": "Sale",
+        "Amount": 50001.0,
+        "House": "Representatives",
+        "Range": "$50,001-$100,000"
+    },
+    {
+        "ReportDate": "2022-05-12",
+        "TransactionDate": "2022-04-12",
+        "Ticker": "MDLZ",
+        "Representative": "Kevin Hern",
+        "Transaction": "Sale",
+        "Amount": 15001.0,
+        "House": "Representatives",
+        "Range": "$15,001-$50,000"
+    },
+    {
+        "ReportDate": "2022-05-12",
+        "TransactionDate": "2022-05-05",
+        "Ticker": "IRT",
+        "Representative": "John Thune",
+        "Transaction": "Sale",
+        "Amount": 15001.0,
+        "House": "Senate",
+        "Range": "$15,001 - $50,000"
+    },
+    {
+        "ReportDate": "2022-05-12",
+        "TransactionDate": "2022-04-22",
+        "Ticker": "AHCO",
+        "Representative": "Kevin Hern",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-12",
+        "TransactionDate": "2022-04-30",
+        "Ticker": "JPM",
+        "Representative": "Kevin Hern",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-12",
+        "TransactionDate": "2022-04-22",
+        "Ticker": "IQV",
+        "Representative": "Kevin Hern",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-10",
+        "TransactionDate": "2022-04-04",
+        "Ticker": "UNP",
+        "Representative": "Zoe Lofgren",
+        "Transaction": "Purchase",
+        "Amount": 15001.0,
+        "House": "Representatives",
+        "Range": "$15,001-$50,000"
+    },
+    {
+        "ReportDate": "2022-05-10",
+        "TransactionDate": "2022-04-04",
+        "Ticker": "KLAC",
+        "Representative": "Zoe Lofgren",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-10",
+        "TransactionDate": "2022-04-22",
+        "Ticker": "COST",
+        "Representative": "Ed Perlmutter",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-10",
+        "TransactionDate": "2022-04-28",
+        "Ticker": "SYF",
+        "Representative": "Zoe Lofgren",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-09",
+        "TransactionDate": "2022-04-18",
+        "Ticker": "UGRO",
+        "Representative": "Brian Mast",
+        "Transaction": "Sale",
+        "Amount": 15001.0,
+        "House": "Representatives",
+        "Range": "$15,001-$50,000"
+    },
+    {
+        "ReportDate": "2022-05-09",
+        "TransactionDate": "2022-04-01",
+        "Ticker": "KO",
+        "Representative": "Lloyd Doggett",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-09",
+        "TransactionDate": "2022-04-06",
+        "Ticker": "FB",
+        "Representative": "James R. Langevin",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-09",
+        "TransactionDate": "2022-04-18",
+        "Ticker": "TLRY",
+        "Representative": "Brian Mast",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-09",
+        "TransactionDate": "2022-04-18",
+        "Ticker": "SPCE",
+        "Representative": "Brian Mast",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-09",
+        "TransactionDate": "2022-04-18",
+        "Ticker": "SPCE",
+        "Representative": "Brian Mast",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-09",
+        "TransactionDate": "2022-04-18",
+        "Ticker": "IWM",
+        "Representative": "Brian Mast",
+        "Transaction": "Sale",
+        "Amount": 15001.0,
+        "House": "Representatives",
+        "Range": "$15,001-$50,000"
+    },
+    {
+        "ReportDate": "2022-05-09",
+        "TransactionDate": "2022-04-18",
+        "Ticker": "SDC",
+        "Representative": "Brian Mast",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-05",
+        "TransactionDate": "2022-03-29",
+        "Ticker": "AMH",
+        "Representative": "William R. Keating",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-05",
+        "TransactionDate": "2022-03-29",
+        "Ticker": "CCI",
+        "Representative": "William R. Keating",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-05",
+        "TransactionDate": "2022-04-27",
+        "Ticker": "VOD",
+        "Representative": "Earl Blumenauer",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-05",
+        "TransactionDate": "2022-04-22",
+        "Ticker": "Y",
+        "Representative": "Earl Blumenauer",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-05",
+        "TransactionDate": "2022-03-29",
+        "Ticker": "VRTX",
+        "Representative": "William R. Keating",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-05",
+        "TransactionDate": "2022-03-29",
+        "Ticker": "MDT",
+        "Representative": "William R. Keating",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-04",
+        "TransactionDate": "2022-04-06",
+        "Ticker": "ORI",
+        "Representative": "Virginia Foxx",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-04",
+        "TransactionDate": "2022-04-22",
+        "Ticker": "AAM$A",
+        "Representative": "Virginia Foxx",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-04",
+        "TransactionDate": "2022-04-06",
+        "Ticker": "AAIC$B",
+        "Representative": "Virginia Foxx",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-04",
+        "TransactionDate": "2022-04-26",
+        "Ticker": "USDP",
+        "Representative": "Virginia Foxx",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-04",
+        "TransactionDate": "2022-04-07",
+        "Ticker": "TTE",
+        "Representative": "Virginia Foxx",
+        "Transaction": "Purchase",
+        "Amount": 15001.0,
+        "House": "Representatives",
+        "Range": "$15,001-$50,000"
+    },
+    {
+        "ReportDate": "2022-05-04",
+        "TransactionDate": "2022-04-26",
+        "Ticker": "BTI",
+        "Representative": "Virginia Foxx",
+        "Transaction": "Purchase",
+        "Amount": 15001.0,
+        "House": "Representatives",
+        "Range": "$15,001-$50,000"
+    },
+    {
+        "ReportDate": "2022-05-04",
+        "TransactionDate": "2022-04-07",
+        "Ticker": "SIRE",
+        "Representative": "Virginia Foxx",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-04",
+        "TransactionDate": "2022-04-25",
+        "Ticker": "PSX",
+        "Representative": "Virginia Foxx",
+        "Transaction": "Sale",
+        "Amount": 50001.0,
+        "House": "Representatives",
+        "Range": "$50,001-$100,000"
+    },
+    {
+        "ReportDate": "2022-05-04",
+        "TransactionDate": "2022-04-22",
+        "Ticker": "MMP",
+        "Representative": "Virginia Foxx",
+        "Transaction": "Purchase",
+        "Amount": 15001.0,
+        "House": "Representatives",
+        "Range": "$15,001-$50,000"
+    },
+    {
+        "ReportDate": "2022-05-04",
+        "TransactionDate": "2022-04-01",
+        "Ticker": "CWEN.A",
+        "Representative": "Virginia Foxx",
+        "Transaction": "Purchase",
+        "Amount": 15001.0,
+        "House": "Representatives",
+        "Range": "$15,001-$50,000"
+    },
+    {
+        "ReportDate": "2022-05-04",
+        "TransactionDate": "2022-04-22",
+        "Ticker": "NEE$Q",
+        "Representative": "Virginia Foxx",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-04",
+        "TransactionDate": "2022-04-01",
+        "Ticker": "AAIC$B",
+        "Representative": "Virginia Foxx",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-04",
+        "TransactionDate": "2022-04-25",
+        "Ticker": "SIRE",
+        "Representative": "Virginia Foxx",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-04",
+        "TransactionDate": "2022-04-22",
+        "Ticker": "USDP",
+        "Representative": "Virginia Foxx",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-04",
+        "TransactionDate": "2022-04-27",
+        "Ticker": "V",
+        "Representative": "Kathy Manning",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-04",
+        "TransactionDate": "2022-04-27",
+        "Ticker": "NOW",
+        "Representative": "Kathy Manning",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-04",
+        "TransactionDate": "2022-04-28",
+        "Ticker": "MMP",
+        "Representative": "Virginia Foxx",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-04",
+        "TransactionDate": "2022-04-29",
+        "Ticker": "V",
+        "Representative": "Kathy Manning",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-04",
+        "TransactionDate": "2022-04-29",
+        "Ticker": "TTE",
+        "Representative": "Virginia Foxx",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-04",
+        "TransactionDate": "2022-04-29",
+        "Ticker": "ASML",
+        "Representative": "Kathy Manning",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-04",
+        "TransactionDate": "2021-11-26",
+        "Ticker": "GOLD",
+        "Representative": "Thomas R. Carper",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Senate",
+        "Range": "$1,001 - $15,000"
+    },
+    {
+        "ReportDate": "2022-05-04",
+        "TransactionDate": "2022-04-07",
+        "Ticker": "BTI",
+        "Representative": "Virginia Foxx",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-04",
+        "TransactionDate": "2022-04-25",
+        "Ticker": "NEE$Q",
+        "Representative": "Virginia Foxx",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-04",
+        "TransactionDate": "2022-04-08",
+        "Ticker": "R",
+        "Representative": "Virginia Foxx",
+        "Transaction": "Sale",
+        "Amount": 15001.0,
+        "House": "Representatives",
+        "Range": "$15,001-$50,000"
+    },
+    {
+        "ReportDate": "2022-05-04",
+        "TransactionDate": "2022-04-22",
+        "Ticker": "KNOP",
+        "Representative": "Virginia Foxx",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-04",
+        "TransactionDate": "2022-04-19",
+        "Ticker": "C",
+        "Representative": "Kathy Manning",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-04",
+        "TransactionDate": "2022-04-19",
+        "Ticker": "C",
+        "Representative": "Kathy Manning",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-04",
+        "TransactionDate": "2022-04-08",
+        "Ticker": "AVGO",
+        "Representative": "Virginia Foxx",
+        "Transaction": "Sale",
+        "Amount": 15001.0,
+        "House": "Representatives",
+        "Range": "$15,001-$50,000"
+    },
+    {
+        "ReportDate": "2022-05-04",
+        "TransactionDate": "2022-04-11",
+        "Ticker": "GPP",
+        "Representative": "Virginia Foxx",
+        "Transaction": "Purchase",
+        "Amount": 15001.0,
+        "House": "Representatives",
+        "Range": "$15,001-$50,000"
+    },
+    {
+        "ReportDate": "2022-05-04",
+        "TransactionDate": "2022-04-19",
+        "Ticker": "AAM$A",
+        "Representative": "Virginia Foxx",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-04",
+        "TransactionDate": "2022-04-11",
+        "Ticker": "KNOP",
+        "Representative": "Virginia Foxx",
+        "Transaction": "Purchase",
+        "Amount": 15001.0,
+        "House": "Representatives",
+        "Range": "$15,001-$50,000"
+    },
+    {
+        "ReportDate": "2022-05-04",
+        "TransactionDate": "2022-04-19",
+        "Ticker": "SCHH",
+        "Representative": "Virginia Foxx",
+        "Transaction": "Sale",
+        "Amount": 50001.0,
+        "House": "Representatives",
+        "Range": "$50,001-$100,000"
+    },
+    {
+        "ReportDate": "2022-05-04",
+        "TransactionDate": "2022-04-20",
+        "Ticker": "RIO",
+        "Representative": "Virginia Foxx",
+        "Transaction": "Purchase",
+        "Amount": 15001.0,
+        "House": "Representatives",
+        "Range": "$15,001-$50,000"
+    },
+    {
+        "ReportDate": "2022-05-04",
+        "TransactionDate": "2022-04-21",
+        "Ticker": "MMP",
+        "Representative": "Virginia Foxx",
+        "Transaction": "Purchase",
+        "Amount": 15001.0,
+        "House": "Representatives",
+        "Range": "$15,001-$50,000"
+    },
+    {
+        "ReportDate": "2022-05-04",
+        "TransactionDate": "2022-04-21",
+        "Ticker": "RIO",
+        "Representative": "Virginia Foxx",
+        "Transaction": "Purchase",
+        "Amount": 15001.0,
+        "House": "Representatives",
+        "Range": "$15,001-$50,000"
+    },
+    {
+        "ReportDate": "2022-05-04",
+        "TransactionDate": "2022-04-21",
+        "Ticker": "NEE$Q",
+        "Representative": "Virginia Foxx",
+        "Transaction": "Purchase",
+        "Amount": 50001.0,
+        "House": "Representatives",
+        "Range": "$50,001-$100,000"
+    },
+    {
+        "ReportDate": "2022-05-04",
+        "TransactionDate": "2022-04-21",
+        "Ticker": "TTE",
+        "Representative": "Virginia Foxx",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-04",
+        "TransactionDate": "2022-04-22",
+        "Ticker": "GPP",
+        "Representative": "Virginia Foxx",
+        "Transaction": "Purchase",
+        "Amount": 15001.0,
+        "House": "Representatives",
+        "Range": "$15,001-$50,000"
+    },
+    {
+        "ReportDate": "2022-05-04",
+        "TransactionDate": "2022-04-18",
+        "Ticker": "NEE$Q",
+        "Representative": "Virginia Foxx",
+        "Transaction": "Purchase",
+        "Amount": 15001.0,
+        "House": "Representatives",
+        "Range": "$15,001-$50,000"
+    },
+    {
+        "ReportDate": "2022-05-04",
+        "TransactionDate": "2022-04-11",
+        "Ticker": "RIO",
+        "Representative": "Virginia Foxx",
+        "Transaction": "Purchase",
+        "Amount": 15001.0,
+        "House": "Representatives",
+        "Range": "$15,001-$50,000"
+    },
+    {
+        "ReportDate": "2022-05-04",
+        "TransactionDate": "2022-04-08",
+        "Ticker": "GSK",
+        "Representative": "Virginia Foxx",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-03",
+        "TransactionDate": "2022-04-13",
+        "Ticker": "CB",
+        "Representative": "Lois Frankel",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-03",
+        "TransactionDate": "2022-03-23",
+        "Ticker": "C",
+        "Representative": "Lois Frankel",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-03",
+        "TransactionDate": "2022-04-13",
+        "Ticker": "FIS",
+        "Representative": "Lois Frankel",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-03",
+        "TransactionDate": "2022-03-24",
+        "Ticker": "JCI",
+        "Representative": "Lois Frankel",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-03",
+        "TransactionDate": "2022-04-11",
+        "Ticker": "WBD",
+        "Representative": "Nancy Pelosi",
+        "Transaction": "Exchange",
+        "Amount": 50001.0,
+        "House": "Representatives",
+        "Range": "$50,001-$100,000"
+    },
+    {
+        "ReportDate": "2022-05-03",
+        "TransactionDate": "2022-03-30",
+        "Ticker": "C",
+        "Representative": "Lois Frankel",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-03",
+        "TransactionDate": "2022-04-06",
+        "Ticker": "NXPI",
+        "Representative": "Lois Frankel",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-03",
+        "TransactionDate": "2022-04-06",
+        "Ticker": "FIS",
+        "Representative": "Lois Frankel",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-03",
+        "TransactionDate": "2022-04-13",
+        "Ticker": "SHW",
+        "Representative": "Lois Frankel",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-03",
+        "TransactionDate": "2022-03-30",
+        "Ticker": "PXD",
+        "Representative": "Lois Frankel",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-02",
+        "TransactionDate": "2022-04-11",
+        "Ticker": "T",
+        "Representative": "David Kustoff",
+        "Transaction": "Exchange",
+        "Amount": 4450.5,
+        "House": "Representatives",
+        "Range": "$4,450.50"
+    },
+    {
+        "ReportDate": "2022-05-02",
+        "TransactionDate": "2022-04-11",
+        "Ticker": "WBD",
+        "Representative": "Michael Patrick Guest",
+        "Transaction": "Exchange",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-02",
+        "TransactionDate": "2022-04-11",
+        "Ticker": "WBD",
+        "Representative": "Michael Patrick Guest",
+        "Transaction": "Exchange",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-05-02",
+        "TransactionDate": "2022-04-11",
+        "Ticker": "WBD",
+        "Representative": "David Kustoff",
+        "Transaction": "Exchange",
+        "Amount": 4450.5,
+        "House": "Representatives",
+        "Range": "$4,450.50"
+    },
+    {
+        "ReportDate": "2022-04-29",
+        "TransactionDate": "2022-03-21",
+        "Ticker": "SYK",
+        "Representative": "Michael C. Burgess",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-04-29",
+        "TransactionDate": "2022-04-18",
+        "Ticker": "SYK",
+        "Representative": "Michael C. Burgess",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-04-29",
+        "TransactionDate": "2022-04-18",
+        "Ticker": "SYK",
+        "Representative": "Michael C. Burgess",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-04-26",
+        "TransactionDate": "2022-04-11",
+        "Ticker": "VZ",
+        "Representative": "Mo Brooks",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-04-26",
+        "TransactionDate": "2022-04-18",
+        "Ticker": "AAPL",
+        "Representative": "Debbie Dingell",
+        "Transaction": "Sale",
+        "Amount": 15001.0,
+        "House": "Representatives",
+        "Range": "$15,001-$50,000"
+    },
+    {
+        "ReportDate": "2022-04-25",
+        "TransactionDate": "2022-03-25",
+        "Ticker": "ARKG",
+        "Representative": "Dwight Evans",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-04-25",
+        "TransactionDate": "2022-03-30",
+        "Ticker": "CE",
+        "Representative": "Dwight Evans",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-04-25",
+        "TransactionDate": "2022-03-30",
+        "Ticker": "INTC",
+        "Representative": "Dwight Evans",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-04-25",
+        "TransactionDate": "2022-03-30",
+        "Ticker": "GD",
+        "Representative": "Dwight Evans",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-04-25",
+        "TransactionDate": "2022-03-25",
+        "Ticker": "ARKG",
+        "Representative": "Dwight Evans",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-04-25",
+        "TransactionDate": "2022-03-30",
+        "Ticker": "KMI",
+        "Representative": "Dwight Evans",
+        "Transaction": "Purchase",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-04-25",
+        "TransactionDate": "2022-03-30",
+        "Ticker": "TWST",
+        "Representative": "Dwight Evans",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-04-25",
+        "TransactionDate": "2022-03-30",
+        "Ticker": "ARKK",
+        "Representative": "Dwight Evans",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-04-25",
+        "TransactionDate": "2022-03-30",
+        "Ticker": "NEO",
+        "Representative": "Dwight Evans",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-04-21",
+        "TransactionDate": "2022-04-08",
+        "Ticker": "T",
+        "Representative": "Jacky Rosen",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Senate",
+        "Range": "$1,001 - $15,000"
+    },
+    {
+        "ReportDate": "2022-04-21",
+        "TransactionDate": "2022-03-22",
+        "Ticker": "AAPL",
+        "Representative": "Kim Dr Schrier",
+        "Transaction": "Sale",
+        "Amount": 500001.0,
+        "House": "Representatives",
+        "Range": "$500,001"
+    },
+    {
+        "ReportDate": "2022-04-21",
+        "TransactionDate": "2022-03-22",
+        "Ticker": "TSLA",
+        "Representative": "Kim Dr Schrier",
+        "Transaction": "Sale",
+        "Amount": 250001.0,
+        "House": "Representatives",
+        "Range": "$250,001-$1,000,000"
+    },
+    {
+        "ReportDate": "2022-04-21",
+        "TransactionDate": "2022-04-01",
+        "Ticker": "BDX",
+        "Representative": "Jacky Rosen",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Senate",
+        "Range": "$1,001 - $15,000"
+    },
+    {
+        "ReportDate": "2022-04-21",
+        "TransactionDate": "2022-04-08",
+        "Ticker": "T",
+        "Representative": "Jacky Rosen",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Senate",
+        "Range": "$1,001 - $15,000"
+    },
+    {
+        "ReportDate": "2022-04-21",
+        "TransactionDate": "2022-04-08",
+        "Ticker": "T",
+        "Representative": "Jacky Rosen",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Senate",
+        "Range": "$1,001 - $15,000"
+    },
+    {
+        "ReportDate": "2022-04-21",
+        "TransactionDate": "2022-03-22",
+        "Ticker": "AAPL",
+        "Representative": "Kim Dr Schrier",
+        "Transaction": "Sale",
+        "Amount": 250001.0,
+        "House": "Representatives",
+        "Range": "$250,001-$1,000,000"
+    },
+    {
+        "ReportDate": "2022-04-21",
+        "TransactionDate": "2022-03-22",
+        "Ticker": "TSLA",
+        "Representative": "Kim Dr Schrier",
+        "Transaction": "Sale",
+        "Amount": 250001.0,
+        "House": "Representatives",
+        "Range": "$250,001-$1,000,000"
+    },
+    {
+        "ReportDate": "2022-04-20",
+        "TransactionDate": "2022-04-19",
+        "Ticker": "ET",
+        "Representative": "Mark Dr Green",
+        "Transaction": "Sale",
+        "Amount": 250001.0,
+        "House": "Representatives",
+        "Range": "$250,001-$1,000,000"
+    },
+    {
+        "ReportDate": "2022-04-20",
+        "TransactionDate": "2022-04-14",
+        "Ticker": "USAC",
+        "Representative": "Mark Dr Green",
+        "Transaction": "Sale",
+        "Amount": 100001.0,
+        "House": "Representatives",
+        "Range": "$100,001-250,000"
+    },
+    {
+        "ReportDate": "2022-04-20",
+        "TransactionDate": "2022-04-18",
+        "Ticker": "USAC",
+        "Representative": "Mark Dr Green",
+        "Transaction": "Sale",
+        "Amount": 500001.0,
+        "House": "Representatives",
+        "Range": "$500,001"
+    },
+    {
+        "ReportDate": "2022-04-19",
+        "TransactionDate": "2022-03-16",
+        "Ticker": "PSMMY",
+        "Representative": "John Rutherford",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-04-19",
+        "TransactionDate": "2022-03-16",
+        "Ticker": "SO",
+        "Representative": "John Rutherford",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-04-19",
+        "TransactionDate": "2022-03-16",
+        "Ticker": "ZURVY",
+        "Representative": "John Rutherford",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-04-19",
+        "TransactionDate": "2022-03-16",
+        "Ticker": "TKOMY",
+        "Representative": "John Rutherford",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-04-19",
+        "TransactionDate": "2022-03-16",
+        "Ticker": "GD",
+        "Representative": "John Rutherford",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-04-19",
+        "TransactionDate": "2022-03-16",
+        "Ticker": "TFC",
+        "Representative": "John Rutherford",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-04-19",
+        "TransactionDate": "2022-03-16",
+        "Ticker": "MGDDY",
+        "Representative": "John Rutherford",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-04-19",
+        "TransactionDate": "2022-03-16",
+        "Ticker": "MDLZ",
+        "Representative": "John Rutherford",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-04-19",
+        "TransactionDate": "2022-03-16",
+        "Ticker": "BK",
+        "Representative": "John Rutherford",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-04-19",
+        "TransactionDate": "2022-03-16",
+        "Ticker": "EVRG",
+        "Representative": "John Rutherford",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-04-19",
+        "TransactionDate": "2022-03-16",
+        "Ticker": "BTVCY",
+        "Representative": "John Rutherford",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-04-19",
+        "TransactionDate": "2022-03-16",
+        "Ticker": "XOM",
+        "Representative": "John Rutherford",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-04-19",
+        "TransactionDate": "2022-03-16",
+        "Ticker": "DPSGY",
+        "Representative": "John Rutherford",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-04-19",
+        "TransactionDate": "2022-03-16",
+        "Ticker": "RHHBY",
+        "Representative": "John Rutherford",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-04-19",
+        "TransactionDate": "2022-03-16",
+        "Ticker": "PM",
+        "Representative": "John Rutherford",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-04-19",
+        "TransactionDate": "2022-03-16",
+        "Ticker": "RIO",
+        "Representative": "John Rutherford",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-04-19",
+        "TransactionDate": "2022-03-16",
+        "Ticker": "TSCDY",
+        "Representative": "John Rutherford",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-04-19",
+        "TransactionDate": "2022-03-16",
+        "Ticker": "UPMKF",
+        "Representative": "John Rutherford",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-04-19",
+        "TransactionDate": "2022-03-16",
+        "Ticker": "SIEGY",
+        "Representative": "John Rutherford",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-04-19",
+        "TransactionDate": "2022-03-16",
+        "Ticker": "CVX",
+        "Representative": "John Rutherford",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-04-19",
+        "TransactionDate": "2022-03-16",
+        "Ticker": "CAT",
+        "Representative": "John Rutherford",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-04-19",
+        "TransactionDate": "2022-03-16",
+        "Ticker": "UGI",
+        "Representative": "John Rutherford",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    },
+    {
+        "ReportDate": "2022-04-19",
+        "TransactionDate": "2022-03-16",
+        "Ticker": "MDT",
+        "Representative": "John Rutherford",
+        "Transaction": "Sale",
+        "Amount": 1001.0,
+        "House": "Representatives",
+        "Range": "$1,001-$15,000"
+    }
+]
