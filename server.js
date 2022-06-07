@@ -37,7 +37,21 @@ app.get("/government", (req, res) => {
 
 // New Route for Retrieving sentiment info
 //______________________________________________
-app.get("/sentiment", (req, res) => {
+
+// app.get("/sentiment", (req, res) => {
+//   fetch('https://apewisdom.io/api/v1.0/filter/all-stocks/page/1')
+//     .then (res => res.json())
+//     .then(data => console.log(data))
+//     // .then(data => res.send(data))
+//     return res.json();
+// });
+
+
+
+app.get("/sentiment", (req, res, next) => {
+  res.header("Access-Control-Allow-Origin", "*");
+  res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+  next();
   fetch('https://apewisdom.io/api/v1.0/filter/all-stocks/page/1')
     .then (res => res.json())
     .then(data => console.log(data))
