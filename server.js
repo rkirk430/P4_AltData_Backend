@@ -47,9 +47,8 @@ app.get("/government", (req, res) => {
 // });
 
 
-
+//--Registering "cannot-get/sentiment" in Heroku as error (before error was "internal error")
 app.get("/sentiment", (req, res, next) => {
-  res.json({user: 'CORS enabled'})
   res.header("Access-Control-Allow-Origin", "https://apewisdom.io/api/v1.0/filter/all-stocks/page/1");
   res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
   next();
@@ -59,6 +58,25 @@ app.get("/sentiment", (req, res, next) => {
     // .then(data => res.send(data))
     return res.json();
 });
+
+//-- Option Two
+
+app.get("/sentiment", (req, res, next) => {
+  var corsOptions = {
+    origin: "https://apewisdom.io/api/v1.0/filter/all-stocks/page/1",
+    optionsSuccessStatus: 200
+  }
+  res.header("Access-Control-Allow-Origin", "https://apewisdom.io/api/v1.0/filter/all-stocks/page/1");
+  res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+  next();
+  fetch('https://apewisdom.io/api/v1.0/filter/all-stocks/page/1')
+    .then (res => res.json())
+    .then(data => console.log(data))
+    // .then(data => res.send(data))
+    return res.json();
+});
+
+
 
 //declare a variable for our port number
 const PORT = process.env.PORT || 4000;
