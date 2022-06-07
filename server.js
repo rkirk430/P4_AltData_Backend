@@ -47,19 +47,22 @@ app.get("/government", (req, res) => {
 // });
 
 
-//--Registering "cannot-get/sentiment" in Heroku as error (before error was "internal error")
-app.get("/sentiment", (req, res, next) => {
-  res.header("Access-Control-Allow-Origin", "https://apewisdom.io/api/v1.0/filter/all-stocks/page/1");
-  res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
-  next();
-  fetch('https://apewisdom.io/api/v1.0/filter/all-stocks/page/1')
-    .then (res => res.json())
-    .then(data => console.log(data))
-    // .then(data => res.send(data))
-    return res.json();
-});
+//--Registering "Cannot GET /sentiment" in Heroku as error (before error was "internal error")
+//________________________________________________________________________
 
-//-- Option Two
+// app.get("/sentiment", (req, res, next) => {
+//   res.header("Access-Control-Allow-Origin", "https://apewisdom.io/api/v1.0/filter/all-stocks/page/1");
+//   res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+//   next();
+//   fetch('https://apewisdom.io/api/v1.0/filter/all-stocks/page/1')
+//     .then (res => res.json())
+//     .then(data => console.log(data))
+//     // .then(data => res.send(data))
+//     return res.json();
+// });
+
+//-- Option Two -- Cannot GET /sentiment
+//________________________________________________________________________
 
 app.get("/sentiment", (req, res, next) => {
   var corsOptions = {
