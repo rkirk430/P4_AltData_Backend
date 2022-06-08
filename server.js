@@ -2,6 +2,8 @@
 const express = require("express");
 const cors = require("cors");
 
+const fetch = require('node-fetch');
+
 // Import JSON files
 // const sentiment = require("./sentiment.json");
 const government = require("./government.json");
