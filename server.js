@@ -4,7 +4,7 @@ const cors = require("cors");
 
 // Import JSON files
 // const sentiment = require("./sentiment.json");
-// const government = require("./government.json");
+const government = require("./government.json");
 // const { response } = require("express");
 
 // Create our app object
@@ -12,6 +12,12 @@ const app = express();
 
 // set up middleware
 app.use(cors());
+
+
+// These were added by Keisha, have to find out what these do!
+app.use(express.urlencoded({ extended: true }));
+app.use(express.json());
+
 
 //home route for testing our app
 app.get("/", (req, res) => {
@@ -51,7 +57,7 @@ app.get("/government", (req, res) => {
 
 //--Registering "Cannot GET /sentiment" in Heroku as error (before error was "internal error")
 //________________________________________________________________________
-
+// USE THIS OPTION******* Renders on localhost but not on 
 
 
 app.get("/sentiment", async(req, res, next) => {
@@ -64,6 +70,11 @@ app.get("/sentiment", async(req, res, next) => {
     // .then(data => res.send(data))
     res.send(sentdata);
 });
+
+
+
+
+
 
 //-- Option Two -- Cannot GET /sentiment
 //________________________________________________________________________
@@ -85,12 +96,7 @@ app.get("/sentiment", async(req, res, next) => {
 
 
 
-//--Option 3
 
-// var corsOptions = {
-//   origin: 'http://example.com',
-//   optionsSuccessStatus: 200 // some legacy browsers (IE11, various SmartTVs) choke on 204
-// }
 
 
 //declare a variable for our port number
@@ -98,6 +104,10 @@ const PORT = process.env.PORT || 4000;
 
 // turn on the server listener
 app.listen(PORT, () => console.log(`Listening on port ${PORT}`));
+
+
+//** This was added by Keisha, need to find out what it does**** */
+module.exports = app;
 
 
 //Heroku Deployment//
