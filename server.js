@@ -52,15 +52,17 @@ app.get("/government", (req, res) => {
 //--Registering "Cannot GET /sentiment" in Heroku as error (before error was "internal error")
 //________________________________________________________________________
 
-app.get("/sentiment", (req, res, next) => {
-  res.header("Access-Control-Allow-Origin", "https://apewisdom.io/api/v1.0/filter/all-stocks/page/1");
-  res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
-  next();
-  fetch('https://apewisdom.io/api/v1.0/filter/all-stocks/page/1')
-    .then (res => res.json())
-    .then(data => console.log(data))
+
+
+app.get("/sentiment", async(req, res, next) => {
+  const data = await fetch('https://apewisdom.io/api/v1.0/filter/all-stocks/page/1');
+  const sentdata = await data.json();
+
+    // .then (res => res.json())
+    // .then(data => sentdata=data)
+    // .then(data => console.log(data))
     // .then(data => res.send(data))
-    return res.json();
+    res.send(sentdata);
 });
 
 //-- Option Two -- Cannot GET /sentiment
