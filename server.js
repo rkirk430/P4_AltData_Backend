@@ -35,6 +35,8 @@ app.get("/government", (req, res) => {
   // res.json(sentiment);
 // });
 
+
+
 // New Route for Retrieving sentiment info
 //______________________________________________
 
@@ -50,25 +52,7 @@ app.get("/government", (req, res) => {
 //--Registering "Cannot GET /sentiment" in Heroku as error (before error was "internal error")
 //________________________________________________________________________
 
-// app.get("/sentiment", (req, res, next) => {
-//   res.header("Access-Control-Allow-Origin", "https://apewisdom.io/api/v1.0/filter/all-stocks/page/1");
-//   res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
-//   next();
-//   fetch('https://apewisdom.io/api/v1.0/filter/all-stocks/page/1')
-//     .then (res => res.json())
-//     .then(data => console.log(data))
-//     // .then(data => res.send(data))
-//     return res.json();
-// });
-
-//-- Option Two -- Cannot GET /sentiment
-//________________________________________________________________________
-
 app.get("/sentiment", (req, res, next) => {
-  var corsOptions = {
-    origin: "https://apewisdom.io/api/v1.0/filter/all-stocks/page/1",
-    optionsSuccessStatus: 200
-  }
   res.header("Access-Control-Allow-Origin", "https://apewisdom.io/api/v1.0/filter/all-stocks/page/1");
   res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
   next();
@@ -79,6 +63,32 @@ app.get("/sentiment", (req, res, next) => {
     return res.json();
 });
 
+//-- Option Two -- Cannot GET /sentiment
+//________________________________________________________________________
+
+// app.get("/sentiment", (req, res, next) => {
+//   var corsOptions = {
+//     origin: "https://apewisdom.io/api/v1.0/filter/all-stocks/page/1",
+//     optionsSuccessStatus: 200
+//   }
+//   res.header("Access-Control-Allow-Origin", "https://apewisdom.io/api/v1.0/filter/all-stocks/page/1");
+//   res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+//   next();
+//   fetch('https://apewisdom.io/api/v1.0/filter/all-stocks/page/1')
+//     .then (res => res.json())
+//     .then(data => console.log(data))
+//     // .then(data => res.send(data))
+//     return res.json();
+// });
+
+
+
+//--Option 3
+
+// var corsOptions = {
+//   origin: 'http://example.com',
+//   optionsSuccessStatus: 200 // some legacy browsers (IE11, various SmartTVs) choke on 204
+// }
 
 
 //declare a variable for our port number
