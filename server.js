@@ -41,14 +41,14 @@ let data = null
 url= "https://api.quiverquant.com/beta/historical/senatetrading/aapl";
 
 app.get("/government", async(req,res) => {
-  console.log(process.env.QUIVER_API_KEY);
   request({
     url: url,
     method: 'GET',
     headers:  {
       Accept: 'application/json',
       "X-CSRFToken": 'TyTJwjuEC7VV7mOqZ622haRaaUr0x0Ng4nrwSRFKQs7vdoBcJlK9qjAS69ghzhFu',
-      Authorization: `Token ${process.env.QUIVER_API_KEY}`, 
+      // Authorization: `Token ${process.env.QUIVER_API_KEY}`, 
+      Authorization: `${process.env.QUIVER_API_KEY}`, 
     }
     },
     function (error, response, body) {
