@@ -63,7 +63,7 @@ app.get("/", (req, res) => {
 //--- Government Data Option 2 -----------//
 
 app.get('/government', async(req,res) => {
-  const URL = 'https://api.quiverquant.com/beta/historical/senatetrading/aapl'
+  const URL = 'https://api.quiverquant.com/beta/live/congresstrading'
   const options = {
     headers: {
       Accept: 'application/json',
