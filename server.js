@@ -35,33 +35,47 @@ app.get("/", (req, res) => {
 // });
 
 //----- New Route Using API ---/
-var request = require('request');
-const res = require("express/lib/response");
-let data = null
-url= "https://api.quiverquant.com/beta/historical/senatetrading/aapl";
+//----- This IS Rendering on localhost but not on Heroku --/
 
-app.get("/government", async(req,res) => {
-  request({
-    url: url,
-    method: 'GET',
-    headers:  {
+// var request = require('request');
+// const res = require("express/lib/response");
+// let data = null
+// url= "https://api.quiverquant.com/beta/historical/senatetrading/aapl";
+
+// app.get("/government", async(req,res) => {
+//   request({
+//     url: url,
+//     method: 'GET',
+//     headers:  {
+//       Accept: 'application/json',
+//       "X-CSRFToken": 'TyTJwjuEC7VV7mOqZ622haRaaUr0x0Ng4nrwSRFKQs7vdoBcJlK9qjAS69ghzhFu',
+//       Authorization: `Token ${process.env.QUIVER_API_KEY}`, 
+//     }
+//     },
+//     function (error, response, body) {
+//       if (error) throw error;
+//       data = body;
+//     },
+//     )
+// res.send(data);
+// })
+
+//--- Government Data Option 2 -----------//
+
+app.get('/government', async(req,res) => {
+  const URL = 'https://api.quiverquant.com/beta/historical/senatetrading/aapl'
+  const options = {
+    headers: {
       Accept: 'application/json',
       "X-CSRFToken": 'TyTJwjuEC7VV7mOqZ622haRaaUr0x0Ng4nrwSRFKQs7vdoBcJlK9qjAS69ghzhFu',
-      // Authorization: `Token ${process.env.QUIVER_API_KEY}`, 
-      Authorization: `${process.env.QUIVER_API_KEY}`, 
+      Authorization: `Token ${process.env.QUIVER_API_KEY}`
     }
-    },
-    function (error, response, body) {
-      if (error) throw error;
-      data = body;
-    },
-    
-
-
-    )
-res.send(data);
+  }
+  fetch(URL, options)
+  .then(res => res.json())
+  .then(data => res.send(data))
+  .catch(err => res.send(err))
 })
-
 
 
 //----- New Route Using API (Option 2)---/
